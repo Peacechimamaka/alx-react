@@ -1,0 +1,9 @@
+.App-body {
+    padding: 15px;
+    height: 45%;
+    border-bottom: 2px solid #e0354b;
+}
+
+input {
+    margin: 5px;
+}
